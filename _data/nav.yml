@@ -1,0 +1,20 @@
+- title: "Home"
+  href: "/"
+
+- title: "Cabins"
+  href: "/cabins/"
+  subcategories:
+    - subtitle: "Riverside Cabin"
+      subhref: "/cabins/riverside"
+    - subtitle: "Riverview Cabin"
+      subhref: "/cabins/riverview"
+
+- title: "Booking"
+  href: "/booking/"
+
+- title: "Location"
+  subcategories:
+    - subtitle: "How to get there"
+      subhref: "/location"
+    - subtitle: "Barrington Tops"
+      subhref: "/location/barringtons"
