@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: map
 title: How to get there
 permalink: /location
 coverpicture: coverpic3
@@ -19,7 +19,8 @@ images:
     New South Wales 2311, Australia
 </div>
 
-Please note – You will be driving on 12km of dirt road to reach us, also our track down to the cabin can become slippery in wet weather. It is recommended that you have a AWD vehicle or 4WD.
+Please note – You will be driving on 12km of dirt road to reach us, also our track down to the cabin can become slippery in wet weather. 
+<b>It is recommended that you have a AWD vehicle or 4WD</b>.
 
 
 If not, just check with us regarding road conditions the night before arrival.
