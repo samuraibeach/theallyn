@@ -24,11 +24,12 @@ Please note – You will be driving on 12km of dirt road to reach us, also our t
 
 <p>If not, just check with us regarding road conditions the night before arrival.</p>
 
+
+Located 35km north of East Gresford, once you arrive it is time to sit back on the balcony and watch the river go by or observe the abundant birdlife. Take a walk up through our own private rainforest full of elkhorns, staghorns and awesome gum trees. Continue up to the top for magnificent views of the Barrington Tops and the chance of spotting kangaroos and deer. If you are into bushwalking or 4 wheel driving the State Forest and Barrington Tops National Park is just 3 kms away, so for those into serious bushwalking there are some great walks nearby
+
 <p>There are no restaurants near by so you will need to bring all your own food supplies. There is a general store in East Gresford, for your last minute purchases.</p>
 
 <p>There are no televisions and no phone service. Although for those who need a telephone a public phone is located at the entrance to the State Forest. Or you can walk up the hill behind the cabins. There is a nice track and you can get reception with Telstra, even check email if really necessary.</p>
-
-<p>The Allyn is situated only minutes away from the State Forest and Barrington Tops National Park so for those into serious bushwalking there are some great walks nearby. On our private property there are also some fantastic walks and magnificent views. There are heaps of great things to do in the area. In the summer when the river is a little warmer we have a couple of great private swimming holes or you can head up to Ladies Wells which is a cascading series of waterfalls which is spectacular.</p>
 
 </div>
         
