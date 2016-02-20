@@ -15,16 +15,17 @@ images:
 
 Riverview Cabin is set further back with views of the banks of the Allyn River.
 
-The cabin consists of the following</p>
+The cabin consists of the following
+
 - 2 Queen size bedrooms ( sleeping a maximum of 4 each)
 - 2 person spa bath
 - Log fire with firewood provide
 - Full kitchen – gas cook top and gas oven, microwave and 300ltr fridge/freezer
-- TV/DVD player, a selection of DVDs are provided but please note that there is no television
-                    reception due to the isolated location
+- TV/DVD player<sup>*</sup>
 - Stereo/CD/MP3 playe
 - Balcony to die for with tables, chair and BBQ looking directly over the Allyn River
 - All linen
 - A selection of books, mags and board games
 - 10 liters of drinking water is provided
 
+    _*a selection of DVDs are provided, but please note that there is no television reception due to the isolated location_
