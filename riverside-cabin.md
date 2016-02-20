@@ -5,11 +5,13 @@ permalink: /cabins/riverside
 
 coverpicture: coverpic3
 images:
- - test1.jpg
- - test2.jpg
- - test3.jpg
+ - home/riverside.jpg
+ - home/relax.jpg
+ - home/swimminghole.jpg
+ 
 ---
 
+## Riverside Cabin
 
 Riverside is the premium cabin, mainly for it’s location right on the banks of the Allyn River.
 
