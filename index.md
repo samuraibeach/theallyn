@@ -23,8 +23,6 @@ In summer the river is superb for swimming, with a couple of private swimming ho
 State forest for the famous Ladies Well, which is a series of small waterfalls.
 
 
-Located 35km north of East Gresford, once you arrive it is time to sit back on the balcony and watch the river go by or observe the abundant birdlife. Take a walk up through our own private rainforest full of elkhorns, staghorns and awesome gum trees. Continue up to the top for magnificent views of the Barrington Tops and the chance of spotting kangaroos and deer. If you are into bushwalking or 4 wheel driving the State Forest and Barrington Tops National Park is just 3 kms away.
-
 We love this place and have put our heart into it
 We hope that you will enjoy your stay and leave the place feeling relaxed and refreshed.
 
