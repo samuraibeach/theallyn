@@ -4,9 +4,9 @@ title: Home
 permalink: /
 coverpicture: coverpic4
 images:
- - gallery/view-from-balcony-riverside.jpg
- - gallery/view-from-the-back-paddocks.jpg
- - gallery/view-of-cabin.jpg
+ - home/relax.jpg
+ - home/riverside.jpg
+ - home/swimminghole.jpg
  
 ---
 
@@ -41,7 +41,7 @@ The fully self contained cabins are set up the same, both with 2 queen size beds
 <h2><a title="Riverside Cabin" href="/cabins/riverside">Riverside</a></h2>
 
   <p>
-      <a href="/cabins/riverside"><img src="/img/gallery/view-of-cabin.jpg" class="img-responsive img-thumbnail"></a>
+      <a href="/img/home/riverside.jpg" data-gallery><img src="/img/home/riverside.jpg" class="img-responsive img-thumbnail"></a>
   </p>
 
   <p>Riverside is situated on the banks of the pristine Allyn River.&nbsp; For more details and photos of Riverside click <a title="Riverside CAbin" href="#">here</a>
