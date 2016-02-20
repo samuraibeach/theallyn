@@ -22,13 +22,13 @@ images:
 Please note – You will be driving on 12km of dirt road to reach us, also our track down to the cabin can become slippery in wet weather. 
 <b>It is recommended that you have a AWD vehicle or 4WD</b>.
 
-If not, just check with us regarding road conditions the night before arrival.
+<p>If not, just check with us regarding road conditions the night before arrival.</p>
 
-There are no restaurants near by so you will need to bring all your own food supplies. There is a general store in East Gresford, for your last minute purchases.
+<p>There are no restaurants near by so you will need to bring all your own food supplies. There is a general store in East Gresford, for your last minute purchases.</p>
 
-There are no televisions and no phone service. Although for those who need a telephone a public phone is located at the entrance to the State Forest. Or you can walk up the hill behind the cabins. There is a nice track and you can get reception with Telstra, even check email if really necessary.
+<p>There are no televisions and no phone service. Although for those who need a telephone a public phone is located at the entrance to the State Forest. Or you can walk up the hill behind the cabins. There is a nice track and you can get reception with Telstra, even check email if really necessary.</p>
 
-The Allyn is situated only minutes away from the State Forest and Barrington Tops National Park so for those into serious bushwalking there are some great walks nearby. On our private property there are also some fantastic walks and magnificent views. There are heaps of great things to do in the area. In the summer when the river is a little warmer we have a couple of great private swimming holes or you can head up to Ladies Wells which is a cascading series of waterfalls which is spectacular. 
+<p>The Allyn is situated only minutes away from the State Forest and Barrington Tops National Park so for those into serious bushwalking there are some great walks nearby. On our private property there are also some fantastic walks and magnificent views. There are heaps of great things to do in the area. In the summer when the river is a little warmer we have a couple of great private swimming holes or you can head up to Ladies Wells which is a cascading series of waterfalls which is spectacular.</p>
 
 </div>
         
