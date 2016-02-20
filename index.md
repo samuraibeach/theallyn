@@ -5,7 +5,6 @@ permalink: /
 coverpicture: coverpic4
 images:
  - home/relax.jpg
- - home/riverside.jpg
  - home/swimminghole.jpg
  
 ---
@@ -45,18 +44,16 @@ The fully self contained cabins are set up the same, both with 2 queen size beds
   <p>Riverside is situated on the banks of the pristine Allyn River.&nbsp; For more details and photos of Riverside click <a title="Riverside CAbin" href="#">here</a>
   </p>
 
-                    <p>&nbsp;</p>
-                </div>
-                <div class="col-md-5 col-lg-offset-1">
-                    <h2><a title="Riverview Cabin" href="/cabins/riverview">Riverview</a></h2>
-                    <p>
-                        <a href="#"><img src="/img/gallery/view-from-balcony-riverside.jpg" class="img-responsive img-thumbnail"></a>
-                    </p>
-                        Riverview is situated overlooking the River, but is set
-                        back a
-                        little further then the other cabin, about 50 metres back from the river.&nbsp; For more details&nbsp;
-                        and photos click <a title="Riverview Cabin" href="/cabins/riverview">here</a>.
-                    </p>
+</div>
 
-                </div>
-            </div>
+<div class="col-md-5 col-lg-offset-1">
+ <h2><a title="Riverview Cabin" href="/cabins/riverview">Riverview</a></h2>
+<p>
+ <a href="/img/home/riverview.jpg" data-gallery><img src="/img/thumbnails/home/riverview.jpg" class="img-responsive img-thumbnail"></a>
+</p>
+
+Riverview is situated overlooking the River, but is set
+back a little further then the other cabin, about 50 metres back from the river.&nbsp; For more details and photos click <a title="Riverview Cabin" href="/cabins/riverview">here</a>.
+</p>
+</div>
+</div>
