@@ -9,27 +9,30 @@ images:
  - gallery/view-of-cabin.jpg
  
 ---
-## Welcome
-
-> Imagine a place where the mountain grandeur is so unspoilt that the air itself is almost   blue Where adjacent rainforest surrounds you with the quiet secret magic that makes the expectation of mythical characters seem quite rational. Or the streams and waterfalls so clear that the word crystal seems inadequate.
 
 
+> Imagine a place where you can hear the river running over the rocks and area is so unspoilt that the air itself is almost blue. Where nearby rainforest surrounds you with the quiet secrets that makes you wonder what lies beyond. Or the streams and waterfalls so clear that you can look into the world below it.
 
-Enjoy an evening around the campfire or pack a picnic and go adventuring. In summer the
-river is superb for swimming, with a couple of private swimming holes or head up to the 
+The Allyn Riverside Cabins are for those seeking seclusion and a chance to get away from all the hustle, located near the World Heritage Listed - Barrington Tops
+
+Situated on 125 acres the cabins offer you the complete getaway.  Enjoy a walk up the back of the property for magnificent views over the Allyn River Valley. Or do a little exploring through the old growth rainforest. Or just sit beside the Allyn River and watch it flow.
+
+
+Enjoy an evening around the campfire on a chilly winter evening or pack a picnic and go adventuring.
+In summer the river is superb for swimming, with a couple of private swimming holes or head up to the 
 State forest for the famous Ladies Well, which is a series of small waterfalls.
-We love this place and have put our heart into it
-We hope that you will enjoy your stay and leave the place feeling relaxed and refreshed.
 
-The Allyn Riverside Cabins offers it’s guests a stress free getaway in the World
-Heritage Listed Barrington Tops.
 
 Located 35km north of East Gresford, once you arrive it is time to sit back on the balcony and watch the river go by or observe the abundant birdlife. Take a walk up through our own private rainforest full of elkhorns, staghorns and awesome gum trees. Continue up to the top for magnificent views of the Barrington Tops and the chance of spotting kangaroos and deer. If you are into bushwalking or 4 wheel driving the State Forest and Barrington Tops National Park is just 3 kms away.
 
+We love this place and have put our heart into it
+We hope that you will enjoy your stay and leave the place feeling relaxed and refreshed.
+
+Please note: There is no mobile phone reception (however if you have Telstra you can walk up the hill behind for reception) No TV - so you can actually talk each other.  We also recommend you have either a 4WD or AWD due to 12km of unsealed road and a small river crossing.
 
 ## Cabins
 
-Situated on 125 acres the cabins offer you the complete getaway.<br> With only 2 cabins “Riverview” and “Riverside”, both overlooking the Allyn River, this place allows you to relax and enjoy the natural surrounds.
+Only 2 cabins Riverview and Riverside, both overlooking the Allyn River, this place allows you to relax and enjoy the natural surrounds.
 
 The fully self contained cabins are set up the same, both with 2 queen size beds, spa bath and log fire. Each cabin sleeps a maximum of 4 persons.
 
