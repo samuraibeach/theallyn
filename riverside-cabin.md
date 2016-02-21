@@ -21,7 +21,9 @@ The cabin consists of the following
 - 2 person spa bath
 - Log fire with firewood provide
 - Full kitchen – gas cook top and gas oven, microwave and 300ltr fridge/freezer
+- Lounge room/Dining Room
 - TV/DVD player, a selection of DVDs are provided but please note that there is no television reception due to the isolated location
+- CD Player (Bluetooth and usb)
 - Balcony to die for with tables, chair and BBQ looking directly over the Allyn River
 - All linen
 - A selection of books, mags and board games
