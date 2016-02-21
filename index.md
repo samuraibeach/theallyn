@@ -34,26 +34,26 @@ Only 2 cabins Riverview and Riverside, both overlooking the Allyn River, this pl
 The fully self contained cabins are set up the same, both with 2 queen size beds, spa bath and log fire. Each cabin sleeps a maximum of 4 persons.
 
 <div class="row">
-<div class="col-lg-5">
+<div class="col-md-5">
 <h2><a title="Riverside Cabin" href="/cabins/riverside">Riverside</a></h2>
 
   <p>
-      <a href="/img/home/riverside.jpg" data-gallery><img src="/img/home/riverside.jpg" class="img-responsive img-thumbnail"></a>
+      <a href="/img/home/riverside.jpg" data-gallery><img src="/img/thumbnails/home/riverside.jpg" class="img-responsive img-thumbnail"></a>
   </p>
 
-  <p>Riverside is situated on the banks of the pristine Allyn River.&nbsp; For more details and photos of Riverside click <a title="Riverside CAbin" href="#">here</a>
+  <p>Riverside is situated on the banks of the pristine Allyn River. For more details and photos of Riverside click <a title="Riverside Cabin" href="#">here</a>
   </p>
 
 </div>
 
-<div class="col-md-5 col-lg-offset-1">
+<div class="col-md-5 col-md-offset-1">
  <h2><a title="Riverview Cabin" href="/cabins/riverview">Riverview</a></h2>
 <p>
  <a href="/img/home/riverview.jpg" data-gallery><img src="/img/thumbnails/home/riverview.jpg" class="img-responsive img-thumbnail"></a>
 </p>
 
 Riverview is situated overlooking the River, but is set
-back a little further then the other cabin, about 50 metres back from the river.&nbsp; For more details and photos click <a title="Riverview Cabin" href="/cabins/riverview">here</a>.
+back a little further then the other cabin, about 50 metres back from the river. For more details and photos click <a title="Riverview Cabin" href="/cabins/riverview">here</a>.
 </p>
 </div>
 </div>

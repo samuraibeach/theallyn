@@ -10,7 +10,7 @@
       subhref: "/cabins/riverview"
 
 - title: "Booking"
-  href: "/booking/"
+  href: "/booking"
 
 - title: "Location"
   subcategories:

@@ -10,8 +10,9 @@
 
     $(window).scroll(function () {
         var top = $(document).scrollTop();
+        console.log($(document).width());
         $('.cover').css({
-            'background-position': '0px -' + (top / 3).toFixed(2) + 'px'
+            'background-position': '0px ' + (top / 3).toFixed(2) + 'px'
         });
 
         if (top > 50) {
