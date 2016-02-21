@@ -5,7 +5,7 @@
 
     observer.check()
         .then( function(){
-            $('#home').addClass('fonts-loaded');
+            $('body').addClass('fonts-loaded');
         });
 
     $(window).scroll(function () {

@@ -1,3 +1,54 @@
+
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#navbar-main{
+  font-size:25px;
+}
+
+.coverpic1{
+  background: rgba(0, 0, 0, 0.3) url(/img/cover/riverview.jpg);
+}
+.coverpic2{
+  background: rgba(0, 0, 0, 0.4) url(/img/cover/river.jpg);
+}
+.coverpic3{
+  background: rgba(0, 0, 0, 0.4) url(/img/cover/balcony.jpg);
+}
+.coverpic4{
+  background: rgba(0, 0, 0, 0.4) url(/img/cover/river2.jpg);
+}
+
+.cover {
+  margin-top: -20px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 450px;
+  margin-bottom:15px;
+}
+
+.cover:before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: inherit;
+  content: ' ';
+  height: 430px;
+}
+
+#home {
+  padding-top: 0;
+  background-color: #f9f9f9;
+}
+
 .booking-widget-container {
   position: relative;
   padding-bottom: 55%;

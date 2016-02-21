@@ -32,6 +32,10 @@ body {
   background-color: $body-bg;
 }
 
+body.fonts-loaded {
+  font-family: $font-family-base-loaded;
+}
+
 // Reset fonts for relevant elements
 input,
 button,
