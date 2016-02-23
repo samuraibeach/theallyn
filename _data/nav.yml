@@ -1,6 +1,3 @@
-- title: "Home"
-  href: "/"
-
 - title: "Cabins"
   href: "/cabins/"
   subcategories:

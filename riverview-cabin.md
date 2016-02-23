@@ -5,14 +5,15 @@ permalink: /cabins/riverview
 
 coverpicture: coverpic6
 images:
- - home/riverview.jpg
- - riverview/viewfromriverview.jpg
+ - file: home/riverview.jpg
+   title: River   
+ - file: riverview/viewfromriverview.jpg
  
 images_bottom:
- - riverview/dining.jpg
- - riverview/riverviewbed.jpg
- - riverview/riverviewlounge.jpg
- - riverview/spabath.jpg 
+ - file: riverview/dining.jpg   
+ - file: riverview/riverviewbed.jpg
+ - file: riverview/riverviewlounge.jpg
+ - file: riverview/spabath.jpg 
 ---
 
 ## Riverview Cabin
@@ -32,4 +33,5 @@ The cabin consists of the following
 - A selection of books, mags and board games
 - 10 litres of drinking water is provided
 
+----
     

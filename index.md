@@ -4,9 +4,9 @@ title: Home
 permalink: /
 coverpicture: coverpic4
 images:
- - location/allyn-sign.jpg
- - home/relax.jpg
- - dogs/bo.jpg 
+ - file: location/allyn-sign.jpg
+ - file: home/relax.jpg
+ - file: dogs/bo.jpg 
  
 ---
 
@@ -35,7 +35,7 @@ Only 2 cabins Riverview and Riverside, both overlooking the Allyn River, this pl
 The fully self contained cabins are set up the same, both with 2 queen size beds, spa bath and log fire. Each cabin sleeps a maximum of 4 persons.
 
 <div class="row">
-<div class="col-md-5">
+<div class="col-sm-5">
 <h2><a title="Riverside Cabin" href="/cabins/riverside">Riverside</a></h2>
 
   <p>
@@ -47,7 +47,7 @@ The fully self contained cabins are set up the same, both with 2 queen size beds
 
 </div>
 
-<div class="col-md-5 col-md-offset-1">
+<div class="col-sm-5 col-sm-offset-1">
  <h2><a title="Riverview Cabin" href="/cabins/riverview">Riverview</a></h2>
 <p>
  <a href="/img/home/riverview.jpg" data-gallery><img src="/img/thumbnails/home/riverview.jpg" class="img-responsive img-thumbnail"></a>

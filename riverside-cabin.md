@@ -2,18 +2,19 @@
 layout: page
 title: Riverside Cabin
 permalink: /cabins/riverside
-
 coverpicture: coverpic3
+
 images:
- - riverside/fire.jpg
- - riverside/balcony.jpg
+ - file: riverside/fire.jpg
+ - file: riverside/balcony.jpg
 
  
 images_bottom:
- - riverside/bed.jpg
- - riverside/bathroom.jpg
- - riverside/livingroom.jpg
- - riverside/spabath.jpg
+ - file: riverside/bed.jpg
+ - file: riverside/bathroom.jpg
+ - file: riverside/livingroom.jpg
+ - file: riverside/spabath.jpg
+ 
 ---
 
 ## Riverside Cabin
@@ -33,3 +34,5 @@ The cabin consists of the following
 - All linen
 - A selection of books, mags and board games
 - 10 liters of drinking water is provided
+
+----

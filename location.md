@@ -4,11 +4,10 @@ title: How to get there
 permalink: /location
 coverpicture: coverpic1
 images:
- - location/allyn-sign.jpg
- - location/river1.jpg
- - location/river2.jpg
- - location/river3.jpg
- - location/river4.jpg
+ - file: location/ours/allyn-sign.jpg
+ - file: location/ours/allynflow.jpg
+ - file: location/ours/funinriver.jpg
+ - file: location/ours/gerritnjosh.jpg
  
 ---
 
