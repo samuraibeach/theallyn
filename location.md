@@ -4,9 +4,11 @@ title: How to get there
 permalink: /location
 coverpicture: coverpic3
 images:
- - gallery/view-from-balcony-riverside.jpg
- - gallery/view-from-the-back-paddocks.jpg
- - gallery/view-of-cabin.jpg
+ - location/allyn-sign.jpg
+ - location/river1.jpg
+ - location/river2.jpg
+ - location/river3.jpg
+ - location/river4.jpg
  
 ---
 

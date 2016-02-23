@@ -5,9 +5,12 @@ permalink: /cabins/riverside
 
 coverpicture: coverpic3
 images:
- - home/riverside.jpg
- - home/relax.jpg
- - home/swimminghole.jpg
+ - riverside/balcony.jpg
+ - riverside/fire.jpg
+ - riverside/livingroom.jpg
+ - riverside/bed.jpg
+ - riverside/bathroom.jpg
+ 
  
 ---
 

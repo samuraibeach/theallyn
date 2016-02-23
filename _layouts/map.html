@@ -10,6 +10,16 @@ layout: default
         <div class="col-md-10 col-md-offset-1">
             {{ content }}
         </div>
+
+        <div class="col-md-10 col-md-offset-2">
+            {% for image in page.images %}
+            <a href="{{ site.github.url }}/img/{{ image }}" data-gallery>
+                <img class="col-xs-2 img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image }}">
+            </a>
+            {% endfor %}
+            <br><br>
+        </div>
+    <br><br>
     </div>
 
 </div>
