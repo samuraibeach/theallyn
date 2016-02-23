@@ -33,6 +33,6 @@ The cabin consists of the following
 - Balcony to die for with tables, chair and BBQ looking directly over the Allyn River
 - All linen
 - A selection of books, mags and board games
-- 10 liters of drinking water is provided
+- 10 litres of drinking water is provided
 
 ----
