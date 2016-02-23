@@ -11,22 +11,26 @@
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
             <ul class="nav navbar-nav navbar-right">
-                {% for dale in site.data.nav %}
+                {% for page in site.data.nav %}
 
                 <!-- check to see if the data file has a submenu, and if so display it -->
-                {% if dale.subcategories != null %}
+                {% if page.subcategories != null %}
                 <li class="dropdown">
-                    <a href="{{ site.github.url }}{{ dale.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ dale.title }}<span class="caret"></span></i></a>
+                    <a href="{{ site.github.url }}{{ page.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ page.title }}<span class="caret"></span></i></a>
                     <ul class="dropdown-menu">
-                        {% for subcategory in dale.subcategories %}
+                        {% for subcategory in page.subcategories %}
+                        {% if subcategory.target != null %}
+                        <li><a href="{{ subcategory.subhref }}" target="{{ subcategory.target }}">{{ subcategory.subtitle }}</a></li>
+                        {% else %}
                         <li><a href="{{ site.github.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                        {% endif %}
                         {% endfor %}
                     </ul>
                     {% else %}
 
                     <!— display the top level navigation for items that don’t have a submenu -->
                 <li>
-                    <a href="{{ site.github.url }}{{ dale.href }}">{{ dale.title }}</a>
+                    <a href="{{ site.github.url }}{{ dale.href }}">{{ page.title }}</a>
                     {% endif %}
                 </li>
                 {% endfor %}
