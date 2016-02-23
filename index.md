@@ -4,8 +4,9 @@ title: Home
 permalink: /
 coverpicture: coverpic4
 images:
+ - location/allyn-sign.jpg
  - home/relax.jpg
- - home/swimminghole.jpg
+ - dogs/bo.jpg 
  
 ---
 

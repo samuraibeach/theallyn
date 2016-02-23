@@ -17,4 +17,11 @@
     - subtitle: "How to get there"
       subhref: "/location"
     - subtitle: "Barrington Tops"
-      subhref: "/location/barringtons"
+      subhref: "/barrington-tops"
+
+- title: "Contact"
+  subcategories:
+    - subtitle: "Phone (02) 4982 5051"
+      subhref: "tel:+61249825051"
+    - subtitle: "info@theallyn.com.au"
+      subhref: "mailto:info@theallyn.com.au"

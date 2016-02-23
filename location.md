@@ -2,7 +2,7 @@
 layout: map
 title: How to get there
 permalink: /location
-coverpicture: coverpic3
+coverpicture: coverpic1
 images:
  - location/allyn-sign.jpg
  - location/river1.jpg

@@ -3,12 +3,16 @@ layout: page
 title: Riverview Cabin
 permalink: /cabins/riverview
 
-coverpicture: coverpic2
+coverpicture: coverpic6
 images:
- - home/relax.jpg
- - home/swimminghole.jpg
  - home/riverview.jpg
+ - riverview/viewfromriverview.jpg
  
+images_bottom:
+ - riverview/dining.jpg
+ - riverview/riverviewbed.jpg
+ - riverview/riverviewlounge.jpg
+ - riverview/spabath.jpg 
 ---
 
 ## Riverview Cabin

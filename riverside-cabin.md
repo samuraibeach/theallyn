@@ -5,13 +5,15 @@ permalink: /cabins/riverside
 
 coverpicture: coverpic3
 images:
- - riverside/balcony.jpg
  - riverside/fire.jpg
- - riverside/livingroom.jpg
+ - riverside/balcony.jpg
+
+ 
+images_bottom:
  - riverside/bed.jpg
  - riverside/bathroom.jpg
- 
- 
+ - riverside/livingroom.jpg
+ - riverside/spabath.jpg
 ---
 
 ## Riverside Cabin
