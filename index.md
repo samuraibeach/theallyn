@@ -44,7 +44,7 @@ The fully self contained cabins are set up the same, both with 2 queen size beds
       <a href="/img/home/riverside.jpg" data-gallery><img src="/img/thumbnails/home/riverside.jpg" class="img-responsive img-thumbnail"></a>
   </p>
 
-  <p>Riverside is situated on the banks of the pristine Allyn River. For more details and photos of Riverside click <a title="Riverside Cabin" href="#">here</a>
+  <p>Riverside is situated on the banks of the pristine Allyn River. For more details and photos of Riverside click <a title="Riverside Cabin" href="href="/cabins/riverside">here</a>.
   </p>
 
 </div>
