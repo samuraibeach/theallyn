@@ -26,6 +26,8 @@ State forest for the famous Ladies Well, which is a series of small waterfalls.
 We love this place and have put our heart into it
 We hope that you will enjoy your stay and leave the place feeling relaxed and refreshed.
 
+We know that you love to take your pets with you so we are Pet friendly (subject to approval) and Pet Waiver.
+
 Please note: There is no mobile phone reception (however if you have Telstra you can walk up the hill behind for reception) No TV - so you can actually talk each other.  We also recommend you have either a 4WD or AWD due to 12km of unsealed road and a small river crossing.
 
 ## Cabins
