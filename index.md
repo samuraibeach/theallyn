@@ -6,7 +6,8 @@ coverpicture: coverpic4
 images:
  - file: location/ours/allyn-sign.jpg
  - file: home/relax.jpg
- - file: dogs/bo.jpg 
+ - file: dogs/bo.jpg
+   title: Dogs on holidays
  
 ---
 
