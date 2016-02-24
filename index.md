@@ -29,7 +29,7 @@ We hope that you will enjoy your stay and leave the place feeling relaxed and re
 
 We know that you love to take your pets with you so we are **"Pet Friendly"** (subject to approval) and [Pet Waiver](/petwaiver.pdf) needs to be completed.
 
-Please note: There is no mobile phone reception (however if you have Telstra you can walk up the hill behind for reception) No TV - so you can actually talk each other.  We also recommend you have either a 4WD or AWD due to 12km of unsealed road and a small river crossing.
+Please note: There is no mobile phone reception (however if you have Telstra you can walk up the hill behind for reception) No TV - so you can actually talk to each other.  We also recommend you have either a 4WD or AWD in wet weather due to 9km of unsealed road and a small river crossing.
 
 ## Cabins
 
