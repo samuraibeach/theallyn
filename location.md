@@ -29,7 +29,7 @@ If not, just check with us regarding road conditions the night before arrival.</
 
 <p>There are no restaurants near by so you will need to bring all your own food supplies. There is a general store in East Gresford, for your last minute purchases.</p>
 
-
+For a driving directions to The Allyn print off drivinginstructions.
 </div>
 
 <div class="col-md-6">
