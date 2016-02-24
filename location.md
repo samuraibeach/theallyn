@@ -20,16 +20,17 @@ images:
     New South Wales 2311, Australia
 </div>
 
-<p>Please note – You will be driving on 12km of dirt road to reach us, also our track down to the cabin can become slippery in wet weather. 
+<p>Please note – You will be driving on 9km of dirt road to reach us, also our track down to the cabin can become slippery in wet weather. 
 <b>It is recommended that you have a AWD vehicle or 4WD</b>.
 If not, just check with us regarding road conditions the night before arrival.</p>
+For a driving directions to The Allyn print off [this](/drivinginstructions.pdf).
 
 
 <p>Located 35km north of East Gresford, once you arrive it is time to sit back on the balcony and watch the river go by or observe the abundant birdlife. Take a walk up through our own private rainforest full of elkhorns, staghorns and awesome gum trees. Continue up to the top for magnificent views of the Barrington Tops and the chance of spotting kangaroos and deer. If you are into bushwalking or 4 wheel driving the State Forest and Barrington Tops National Park is just 3 kms away, so for those into serious bushwalking there are some great walks nearby.</p>
 
 <p>There are no restaurants near by so you will need to bring all your own food supplies. There is a general store in East Gresford, for your last minute purchases.</p>
 
-For a driving directions to The Allyn print off drivinginstructions.
+
 </div>
 
 <div class="col-md-6">
