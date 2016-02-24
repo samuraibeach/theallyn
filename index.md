@@ -21,7 +21,7 @@ Situated on 125 acres the cabins offer you the complete getaway.  Enjoy a walk u
 
 Enjoy an evening around the campfire on a chilly winter evening or pack a picnic and go adventuring.
 In summer the river is superb for swimming, with a couple of private swimming holes or head up to the 
-State forest for the famous Ladies Well, which is a series of small waterfalls.
+State forest for the famous Ladies Well, which is a series of small waterfalls.  
 
 
 We love this place and have put our heart into it
