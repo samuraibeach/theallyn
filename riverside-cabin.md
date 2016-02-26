@@ -7,7 +7,7 @@ coverpicture: coverpic3
 images:
  - file: riverside/fire.jpg
  - file: riverside/balcony.jpg
-
+ - file: riverside/riverside.jpg
  
 images_bottom:
  - file: riverside/bed.jpg
@@ -35,4 +35,3 @@ The cabin consists of the following
 - A selection of books, mags and board games
 - 10 litres of drinking water is provided
 
-----

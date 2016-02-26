@@ -7,7 +7,8 @@ images:
  - file: location/ours/allyn-sign.jpg
  - file: location/ours/allynflow.jpg
  - file: location/ours/funinriver.jpg
- - file: location/ours/gerritnjosh.jpg
+ - file: location/boothill.jpg
+ - file: location/ours/natives.jpg
  
 ---
 
