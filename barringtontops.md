@@ -5,10 +5,15 @@ permalink: /barrington-tops
 coverpicture: coverpic5
 images:
  - file: location/barringtons/barringtontree.jpg
+   title: Stranger Fig tree
  - file: location/barringtons/ladieswell.jpg
+   title: Ladies Wells
  - file: location/barringtons/ladieswellhole.jpg
+   title: Ladies Wells
  - file: location/barringtons/ladieswells.jpg
+   title: Ladies Wells
  - file: location/barringtons/swimminghole.jpg
+   title: Swimming hole near Ladies Wells
 
 ---
 Barrington Tops National Park and the entrance to Chichester State Forest are only 3km further along from the cabins.  Both areas offer impressive walks and great scenery.
