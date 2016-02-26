@@ -6,14 +6,18 @@ permalink: /cabins/riverview
 coverpicture: coverpic6
 images:
  - file: home/riverview.jpg
-   title: River   
- - file: riverview/viewfromriverview.jpg
+   title: View from river   
+ - file: riverview/viewtoriverfromriverview.jpg
  
 images_bottom:
- - file: riverview/dining.jpg   
+ - file: riverview/dining.jpg
+   title: Dining area
  - file: riverview/riverviewbed.jpg
+   title: Queensize bed 
  - file: riverview/riverviewlounge.jpg
- - file: riverview/spabath.jpg 
+   title: loungeroom
+ - file: riverview/spabath.jpg
+   title: spabath
 ---
 
 ## Riverview Cabin
