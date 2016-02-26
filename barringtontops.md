@@ -18,7 +18,7 @@ images:
 ---
 Barrington Tops National Park and the entrance to Chichester State Forest are only 3km further along from the cabins.  Both areas offer impressive walks and great scenery.
 
-### [Chichester State Forest](https://http://www.forestrycorporation.com.au/visit/forests/chichester){:target="_blank"}
+### [Chichester State Forest](http://www.forestrycorporation.com.au/visit/forests/chichester){:target="_blank"}
 Forests in this area have been harvested for timber for many decades – some for over 150 years. The forests you see today are regrowth forests which means they have been harvested many times over and grown back. Today's forest management practices protect biodiversity, soil and water quality and cultural heritage sites while also allowing for sustainable timber production. NSW State Forests – here today, here tomorrow. There are many great areas to visit here. 
 
 **Allyn River Forest Park** - The Allyn River Forest Park is a great day use area for swimming, bushwalking, relaxing or four-wheel-driving. The nearby swimming hole at Ladies Well is a cool refreshing swimming hole that is perfect for a dip in the warmer summer months.
