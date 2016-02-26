@@ -5,7 +5,7 @@ permalink: /barrington-tops
 coverpicture: coverpic5
 images:
  - file: location/barringtons/barringtontree.jpg
-   title: Stranger Fig tree
+   title: Strangler Fig tree
  - file: location/barringtons/ladieswell.jpg
    title: Ladies Wells
  - file: location/barringtons/ladieswellhole.jpg
