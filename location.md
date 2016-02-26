@@ -30,7 +30,7 @@ For a driving directions to The Allyn print off <a target="_blank" href="/drivin
 </p>
 
 
-<p>Located 35km north of East Gresford, once you arrive it is time to sit back on the balcony and watch the river go by or observe the abundant birdlife. Take a walk up through our own private rainforest full of elkhorns, staghorns and awesome gum trees. Continue up to the top for magnificent views of the Barrington Tops and the chance of spotting kangaroos and deer. If you are into bushwalking or 4 wheel driving the State Forest and Barrington Tops National Park is just 3 kms away, so for those into serious bushwalking there are some great walks nearby.</p>
+<p>Located 35km north of East Gresford, once you arrive it is time to sit back on the balcony and watch the river go by or observe the abundant birdlife. Take a walk up through our own private rainforest full of elkhorns, staghorns and awesome gum trees. Continue up to the top for magnificent views of the Barrington Tops and the chance of spotting kangaroos and deer. If you are into bushwalking or 4 wheel driving the [Chichester State Forest](http://theallyn.com/barrington-tops) and [Barrington Tops National Park](http://theallyn.com/barrington-tops) is just 3 kms away, so for those into serious bushwalking there are some great walks nearby.</p>
 
 <p>There are no restaurants near by so you will need to bring all your own food supplies. There is a general store in East Gresford, for your last minute purchases.</p>
 
