@@ -7,7 +7,8 @@ coverpicture: coverpic6
 images:
  - file: home/riverview.jpg
    title: View from river   
- - file: riverview/viewtoriverfromriverview.jpg
+ - file: riverview/viewfromriverview.jpg
+   title: view to river from riverview
  
 images_bottom:
  - file: riverview/dining.jpg
