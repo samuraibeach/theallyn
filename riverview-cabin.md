@@ -38,5 +38,4 @@ The cabin consists of the following
 - A selection of books, mags and board games
 - 10 litres of drinking water is provided
 
-----
     
