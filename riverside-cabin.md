@@ -6,14 +6,21 @@ coverpicture: coverpic3
 
 images:
  - file: riverside/fire.jpg
+   title: log fire
  - file: riverside/balcony.jpg
+   title: view from balcony
  - file: riverside/riverside.jpg
+   title: Riverside cabin
  
 images_bottom:
  - file: riverside/bed.jpg
+   title: Queen bed
  - file: riverside/bathroom.jpg
+   title: bathroom
  - file: riverside/livingroom.jpg
+   title: living area
  - file: riverside/spabath.jpg
+   title: Spa bath
  
 ---
 

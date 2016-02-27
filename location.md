@@ -5,10 +5,15 @@ permalink: /location
 coverpicture: coverpic1
 images:
  - file: location/ours/allyn-sign.jpg
+   title: Our handmade sign
  - file: location/ours/allynflow.jpg
+   title: River on our property
  - file: location/ours/funinriver.jpg
+   title: Having fun in the river
  - file: location/boothill.jpg
+   title: Boot Hill 
  - file: location/ours/natives.jpg
+   title: Mother and baby
  
 ---
 
