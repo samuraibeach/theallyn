@@ -8,8 +8,7 @@
 # Site settings
 title: the Allyn
 email: info@theallyn.com.au
-description: 2 Unique, self contained cabins with log fires, spa bath, 
-#and absolute river frontage to the Allyn River at the Barrington Tops.
+description: 2 Unique, self contained cabins with log fires, spa bath,and absolute river frontage to the Allyn River at the Barrington Tops.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://theallyn.com.au" # the base hostname & protocol for your site
 
