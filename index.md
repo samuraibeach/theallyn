@@ -56,6 +56,7 @@ The fully self contained cabins are set up the same, both with 2 queen size beds
  <a href="/img/home/riverview.jpg" data-gallery><img src="/img/thumbnails/home/riverview.jpg" class="img-responsive img-thumbnail"></a>
 </p>
 
+<p>
 Riverview is situated overlooking the River, but is set
 back a little further then the other cabin, about 50 metres back from the river. For more details and photos click <a title="Riverview Cabin" href="/cabins/riverview">here</a>.
 </p>
