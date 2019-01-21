@@ -38,5 +38,6 @@ The cabin consists of the following
 - All linen
 - A selection of books, mags and board games
 - 10 litres of drinking water is provided
+- Emergency Satelitte wifi is really required.
 
     
