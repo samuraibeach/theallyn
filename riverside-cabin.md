@@ -33,7 +33,7 @@ The cabin consists of the following
 - 2 Queen size bedrooms ( sleeping a maximum of 4 )
 - 2 person spa bath
 - Log fire with firewood provide
-- Airconditioner
+- Airconditioner.
 - Full kitchen – gas cook top and gas oven, microwave and 300ltr fridge/freezer
 - Lounge room/Dining Room
 - TV/DVD player, a selection of DVDs are provided but please note that there is no television reception due to the isolated location
@@ -42,4 +42,5 @@ The cabin consists of the following
 - All linen
 - A selection of books, mags and board games
 - 10 litres of drinking water is provided
+- Emergency Satellite wifi if you really need it.
 
