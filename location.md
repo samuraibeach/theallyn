@@ -45,5 +45,3 @@ For a driving directions to The Allyn print off <a target="_blank" href="/drivin
 </div>
 <br>
 <p>There are no televisions and no phone service. Although for those who need a telephone a public phone is located at the entrance to the State Forest. Or you can walk up the hill behind the cabins. There is a nice track and you can get reception with Telstra, even check email if really necessary.</p>
-
-</div>
