@@ -1,35 +1,33 @@
 ---
 layout: home
 title: Home
-permalink: /
+permalink: "/"
 coverpicture: coverpic4
 images:
- - file: location/ours/allyn-sign.jpg
- - file: home/relax.jpg
- - file: dogs/bo.jpg
-   title: Dogs on holidays
- 
+- file: location/ours/allyn-sign.jpg
+- file: dogs/bo.jpg
+  title: Dogs on holidays
+- file: home/relax.jpg
+
 ---
-
-
 > Imagine a place where you can hear the river running over the rocks and the area is so unspoilt that the air itself is almost blue. Where nearby rainforest surrounds you with the quiet secrets that makes you wonder what lies beyond, with streams and waterfalls so clear that you can look into the world below.
 
 The Allyn Riverside Cabins, for those seeking seclusion and a chance to get away from all the hustle, are located near the World Heritage Listed - Barrington Tops.
 
 Situated on 125 acres, the cabins offer you the complete getaway. Enjoy a walk up the back of the property for magnificent views over the Allyn River Valley, do a little exploring through the old growth rainforest or just sit beside the Allyn River and watch it flow.
 
-
 Enjoy sitting around the campfire on a chilly winter's evening or pack a picnic and go adventuring.
-In summer the river is superb for swimming, with a couple of private swimming holes nearby, or head up to the 
-State forest for the famous Ladies Well, which is a series of small waterfalls.  
-
+In summer the river is superb for swimming, with a couple of private swimming holes nearby, or head up to the
+State forest for the famous Ladies Well, which is a series of small waterfalls.
 
 We love this place and have put our heart into it.
 We hope that you will enjoy your stay and leave our place feeling relaxed and refreshed.
 
 We know that you love to take your pets with you, so we are **Pet Friendly** (subject to approval) and [Pet Waiver](/petwaiver.pdf) needs to be completed.
 
-Please note: There is no mobile phone reception (however if you have Telstra you can walk up the hill behind the cabins for reception) No TV - so you can actually talk to each other.  We also recommend you have either a 4WD or AWD in wet weather due to 9km of unsealed road and a small river crossing.
+We now have satellite internet on the property in case of an emergency.  Internet is not available in the cabin. Location will be given when booking.
+
+Please note: There is no mobile phone reception (however if you have Telstra you can walk up the hill behind the cabins for reception) No TV - so you can actually talk to each other. You will need to have either a 4WD or AWD  as there is 9km of unsealed road and a small river crossing, and getting out of our driveway is steep and sometimes slippery.
 
 ## Cabins
 
@@ -41,19 +39,19 @@ The fully self contained cabins are set up the same, both with 2 queen size beds
 <div class="col-sm-5">
 <h2><a title="Riverside Cabin" href="/cabins/riverside">Riverside</a></h2>
 
-  <p>
-      <a href="/img/home/riverside.jpg" data-gallery><img src="/img/thumbnails/home/riverside.jpg" class="img-responsive img-thumbnail"></a>
-  </p>
+<p>
+<a href="/img/home/riverside.jpg" data-gallery><img src="/img/thumbnails/home/riverside.jpg" class="img-responsive img-thumbnail"></a>
+</p>
 
-  <p>Riverside is situated on the banks of the pristine Allyn River. For more details and photos of Riverside click <a title="Riverside Cabin" href="/cabins/riverside">here</a>.
-  </p>
+<p>Riverside is situated on the banks of the pristine Allyn River. For more details and photos of Riverside click <a title="Riverside Cabin" href="/cabins/riverside">here</a>.
+</p>
 
 </div>
 
 <div class="col-sm-5 col-sm-offset-1">
- <h2><a title="Riverview Cabin" href="/cabins/riverview">Riverview</a></h2>
+<h2><a title="Riverview Cabin" href="/cabins/riverview">Riverview</a></h2>
 <p>
- <a href="/img/home/riverview.jpg" data-gallery><img src="/img/thumbnails/home/riverview.jpg" class="img-responsive img-thumbnail"></a>
+<a href="/img/home/riverview.jpg" data-gallery><img src="/img/thumbnails/home/riverview.jpg" class="img-responsive img-thumbnail"></a>
 </p>
 
 <p>
