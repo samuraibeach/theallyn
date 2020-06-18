@@ -35,6 +35,8 @@ For a driving directions to The Allyn print off <a target="_blank" href="/drivin
 
 <p>There are no restaurants near by so you will need to bring all your own food supplies. There is a general store in East Gresford, for your last minute purchases.</p>
 
+</div>
+
 <div class="col-md-6">
 <p>Google maps and directions<br>
 <div class="google-maps">
