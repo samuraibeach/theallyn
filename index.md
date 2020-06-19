@@ -10,7 +10,7 @@ images:
 - file: home/relax.jpg
 
 ---
-> Imagine a place where you can hear the river running over the rocks and the area is so unspoilt that the air itself is almost blue. Where nearby rainforest surrounds you with the quiet secrets that makes you wonder what lies beyond, with streams and waterfalls so clear that you can look into the world below.
+> _"Imagine a place where you can hear the river running over the rocks and the area is so unspoilt that the air itself is almost blue. Where nearby rainforest surrounds you with the quiet secrets that makes you wonder what lies beyond, with streams and waterfalls so clear that you can look into the world below"_
 
 The Allyn Riverside Cabins, for those seeking seclusion and a chance to get away from all the hustle, are located near the World Heritage Listed - Barrington Tops.
 
