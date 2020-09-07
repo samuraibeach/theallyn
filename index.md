@@ -12,8 +12,6 @@ images:
 ---
 > _"Imagine a place where you can hear the river running over the rocks and the area is so unspoilt that the air itself is almost blue. Where nearby rainforest surrounds you with the quiet secrets that makes you wonder what lies beyond, with streams and waterfalls so clear that you can look into the world below"_
 
-PLEASE NOTE WE ARE HAVING ISSUES WITH OUR BOOKING SITE.  Please email your enquiry and we will get back to you asap.  [admin@theallyn.com.au](mailto:admin@theallyn.com.au "Email us")<a href= "mailto:admin@theallyn.com.au">
-
 The Allyn Riverside Cabins, for those seeking seclusion and a chance to get away from all the hustle, are located near the World Heritage Listed - Barrington Tops.
 
 Situated on 125 acres, the cabins offer you the complete getaway. Enjoy a walk up the back of the property for magnificent views over the Allyn River Valley, do a little exploring through the old growth rainforest or just sit beside the Allyn River and watch it flow.
