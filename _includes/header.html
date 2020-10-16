@@ -22,7 +22,7 @@
                         {% if subcategory.target != null %}
                         <li><a href="{{ subcategory.subhref }}" target="{{ subcategory.target }}">{{ subcategory.subtitle }}</a></li>
                         {% else %}
-                        <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                        <li><a href="{{ site.github.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
                         {% endif %}
                         {% endfor %}
                     </ul>
@@ -30,7 +30,11 @@
 
                     <!— display the top level navigation for items that don’t have a submenu -->
                 <li>
+                    {% if page.target != null %}
+                    <a href="{{ page.href }}" target="{{ page.target }}">{{ page.title }}</a>
+                    {% else %}
                     <a href="{{ site.github.url }}{{ page.href }}">{{ page.title }}</a>
+                    {% endif %}
                     {% endif %}
                 </li>
                 {% endfor %}
