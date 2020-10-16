@@ -22,7 +22,7 @@
                         {% if subcategory.target != null %}
                         <li><a href="{{ subcategory.subhref }}" target="{{ subcategory.target }}">{{ subcategory.subtitle }}</a></li>
                         {% else %}
-                        <li><a href="{{ site.github.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                        <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
                         {% endif %}
                         {% endfor %}
                     </ul>
