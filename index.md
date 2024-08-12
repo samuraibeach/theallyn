@@ -12,7 +12,7 @@ images:
 ---
 > _"Imagine a place where you can hear the river running over the rocks and the area is so unspoilt that the air itself is almost blue. Where nearby rainforest surrounds you with the quiet secrets that makes you wonder what lies beyond, with streams and waterfalls so clear that you can look into the world below"_
 
-The Allyn Riverside Cabins, for those seeking seclusion and a chance to get away from all the hustle, are located near the World Heritage Listed - Barrington Tops.
+The Allyn River Cabins, for those seeking seclusion and a chance to get away from all the hustle, are located near the World Heritage Listed - Barrington Tops.
 
 Situated on 125 acres, the cabins offer you the complete getaway. Enjoy a walk up the back of the property for magnificent views over the Allyn River Valley, do a little exploring through the old growth rainforest or just sit beside the Allyn River and watch it flow.
 
@@ -25,9 +25,9 @@ We hope that you will enjoy your stay and leave our place feeling relaxed and re
 
 We know that you love to take your pets with you, so we are **Pet Friendly** (subject to approval) and [Pet Waiver](/petwaiver.pdf) needs to be completed.
 
-We now have satellite internet on the property in case of an emergency.  Internet is not available in the cabin. Location will be given when booking.
+We have recently had Starlink installed, so internet is available to your cabin and surrounding areas.  You can use Chromecast to watch your tv or stream.  Also wifi calling on your mobile is available .
 
-Please note: There is no mobile phone reception (however if you have Telstra you can walk up the hill behind the cabins for reception) No TV - so you can actually talk to each other. You will need to have either a 4WD or AWD  as there is 9km of unsealed road and a small river crossing, and getting out of our driveway is steep and sometimes slippery.
+Please note: There is no mobile phone reception (however if you have Telstra you can walk up over the road and up the hill for reception)  You will need to have either a 4WD or AWD  as there is 10km of unsealed road and a small river crossing, and getting out of our driveway is steep and sometimes slippery.
 
 ## Cabins
 
