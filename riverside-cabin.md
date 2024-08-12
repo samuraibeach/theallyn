@@ -31,12 +31,12 @@ The cabin consists of the following
 * 2 person spa bath
 * Log fire with firewood provide
 * Airconditioner.
-* Full kitchen – gas cook top and gas oven, microwave and 300ltr fridge/freezer
+* Full kitchen – gas cook top and gas oven, microwave, air fryer and 300ltr fridge/freezer
 * Lounge room/Dining Room
-* TV/DVD player, a selection of DVDs are provided but please note that there is no television reception due to the isolated location
+* TV/DVD player with Chromecast, a selection of DVDs are provided but please note that there is no television reception due to the isolated location however you can watch anything with Chromecast
 * Stereo CD/Bluetooth and usb
 * Balcony to die for with tables, chair and BBQ looking directly over the Allyn River
 * All linen
 * A selection of books, mags and board games
 * 10 litres of drinking water is provided
-* Emergency Satellite wifi if you really need it.
+* Starlink has recently been installed so now you have great internet to your cabin.
