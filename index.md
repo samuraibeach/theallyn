@@ -25,7 +25,7 @@ We hope that you will enjoy your stay and leave our place feeling relaxed and re
 
 We know that you love to take your pets with you, so we are **Pet Friendly** (subject to approval) and [Pet Waiver](/petwaiver.pdf) needs to be completed.
 
-We have recently had Starlink installed, so internet is available to your cabin and surrounding areas.  You can use Chromecast to watch your tv or stream.  Also wifi calling on your mobile is available .
+We have recently had **Starlink** installed, so internet is available to your cabin and surrounding areas.  You can use Chromecast to watch your tv or stream.  Also wifi calling on your mobile is available .
 
 Please note: There is no mobile phone reception (however if you have Telstra you can walk up over the road and up the hill for reception)  You will need to have either a 4WD or AWD as there is 10km of unsealed road and a small river crossing, and getting out of our driveway is steep and sometimes slippery.
 
