@@ -4,5 +4,5 @@ permalink: "/booking"
 coverpicture: coverpic7
 
 ---
-<div class="ibe" data-widget="embed"></div>
+<div class="ibe" data-widget="embed" data-region="apac"></div>
 
