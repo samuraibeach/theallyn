@@ -11,6 +11,8 @@ images:
 
 ---
 > _"Imagine a place where you can hear the river running over the rocks and the area is so unspoilt that the air itself is almost blue. Where nearby rainforest surrounds you with the quiet secrets that makes you wonder what lies beyond, with streams and waterfalls so clear that you can look into the world below"_
+>
+> WE HAVE A NEW BOOKING SITE, HOWEVER IT HAS SEVERAL ISSUES. We are working with the company but if you are unable to book what you are trying for please email <a>(mailto:info@theallyn.com.au) or call 0418464134
 
 The Allyn River Cabins, for those seeking seclusion and a chance to get away from all the hustle, are located near the World Heritage Listed - Barrington Tops.
 
